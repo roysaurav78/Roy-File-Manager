@@ -18,7 +18,7 @@ const index = () => {
             <NewFile />
 
             <div className="sidebar__itemsContainer">
-                <SidebarItem arrow icon={(<InsertDriveFileIcon />)} label={'My Drive'} />
+                <SidebarItem arrow icon={(<InsertDriveFileIcon />)} label={'Walton-Drive'} />
                 <SidebarItem arrow icon={(<ImportantDevicesIcon />)} label={'Computers'} />
                 <SidebarItem icon={(<PeopleAltIcon />)} label={'Shared with me'} />
                 <SidebarItem icon={(<QueryBuilderIcon />)} label={'Recent'} />
